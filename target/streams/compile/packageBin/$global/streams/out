@@ -1,0 +1,9 @@
+[info] Packaging C:\Users\Dickson\development\FindGCF\target\scala-2.12\findgcf_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	Main$.class
+[debug] 	  C:\Users\Dickson\development\FindGCF\target\scala-2.12\classes\Main$.class
+[debug] 	Main$delayedInit$body.class
+[debug] 	  C:\Users\Dickson\development\FindGCF\target\scala-2.12\classes\Main$delayedInit$body.class
+[debug] 	Main.class
+[debug] 	  C:\Users\Dickson\development\FindGCF\target\scala-2.12\classes\Main.class
+[info] Done packaging.

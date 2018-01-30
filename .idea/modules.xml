@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/IdeaProjects/FindGCF/.idea/modules/FindGCF-findgcf-build.iml" filepath="$USER_HOME$/IdeaProjects/FindGCF/.idea/modules/FindGCF-findgcf-build.iml" />
+      <module fileurl="file://$USER_HOME$/IdeaProjects/FindGCF/.idea/modules/IdeaProjects-findgcf.iml" filepath="$USER_HOME$/IdeaProjects/FindGCF/.idea/modules/IdeaProjects-findgcf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/findgcf.iml" filepath="$PROJECT_DIR$/.idea/modules/findgcf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/findgcf-build.iml" filepath="$PROJECT_DIR$/.idea/modules/findgcf-build.iml" />
+    </modules>
+  </component>
+</project>
